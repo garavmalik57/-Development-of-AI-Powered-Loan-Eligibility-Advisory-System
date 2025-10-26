@@ -52,12 +52,11 @@ loan-advisor/
     bank/
   requirements.txt
   README.md
+```
 
+---
 Demo & Live Website
 
 🎥 Demo Video: https://drive.google.com/file/d/1HUjIm4oGDf9BhR7Thco1qSdC4UAkxo6U/view?usp=drive_link
 
 🌐 Hosted Website: https://ai-credit-underwriting-system.onrender.com
-```
-
----
